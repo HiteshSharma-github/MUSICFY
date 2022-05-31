@@ -1,4 +1,4 @@
-# Name Of the Music Player - Musicfy- One stop destination for music lovers<br>
+# Name Of the Music Player - Musicfy | One stop destination for music lovers<br>
 ![m2](https://user-images.githubusercontent.com/85629794/171097887-37a99faa-561c-403b-b08c-3ba795329114.jpg)
 ![m1](https://user-images.githubusercontent.com/85629794/171097836-d28018de-33d6-4aee-bc1d-f3a065b281a4.jpg)![m3](https://user-images.githubusercontent.com/85629794/171097897-34caa633-73a6-4978-968c-aa210b39ef61.jpg)
 
