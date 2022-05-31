@@ -23,4 +23,5 @@ npm i<br>
 5- Enter CLI Command -
 npm start<br><br>
 
+Hosted website url -https://musicfyon.netlify.app/
 Refer this if any problemn occurs https://reactjs.org/docs/create-a-new-react-app.html
