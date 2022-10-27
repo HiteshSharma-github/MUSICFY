@@ -4,12 +4,16 @@
 
 <div align="center">
 
-![1](https://user-images.githubusercontent.com/85629794/198253989-56e1f4b1-1ceb-426a-8439-3432d6f![2](https://user-images.githubusercontent.com/85629794/198254000-0ed964a7-a411-46de-b1ca-b01ffebb8be8.png)
-aaa3c.png)
-![3](https://user-images.githubusercontent.com/85629794/198254016-e858227e-b1da-4651-8a67-3bc269d38534.png)
+![1](https://user-images.githubusercontent.com/85629794/198254911-501508fd-d8a4-4a09-8a43-bfe806aceac6.png)
 
-    A music app made with the help of React.js.
+![2](https://user-images.githubusercontent.com/85629794/198254939-4e363455-4955-46c6-bfe8-24709bafe934.png)
+
+
+![3](https://user-images.githubusercontent.com/85629794/198254953-47941f4e-39ec-49cf-9c58-c9507c76dcbf.png)
+
+
     
+    A beautiful but minimal music player made using React JS that contains music tracks and their album art. Fully responsive Music player web application built with React, sass, hooks, and font-awesome. Users can play/pause, trim/skip back/forward and view the song library
 </div>
 
 ## TECHNOLOGY USED
