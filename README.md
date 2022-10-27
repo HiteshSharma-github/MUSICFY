@@ -1,7 +1,9 @@
 <h1 align="center">
    Musicfy | One Stop Destination
 </h1>
-
+<h4 align="centre">
+Hosted Website = https://musicfyon.netlify.app/
+</h4>
 <div align="center">
 
 ![1](https://user-images.githubusercontent.com/85629794/198254911-501508fd-d8a4-4a09-8a43-bfe806aceac6.png)
@@ -15,6 +17,7 @@
     
     A beautiful but minimal music player made using React JS that contains music tracks and their album art. Fully responsive Music player web application built with React, sass, hooks, and font-awesome. Users can play/pause, trim/skip back/forward and view the song library
 </div>
+
 
 ## TECHNOLOGY USED
 
