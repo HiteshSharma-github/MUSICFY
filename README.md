@@ -37,7 +37,7 @@ Hosted Website = https://musicfyon.netlify.app/
 
 ## USE CASE DIAGRAM
 
-![image](https://github.com/HiteshSharma-github/MUSICFY/assets/85629794/0f3d690c-e909-4388-8d38-e00cc2c13bf2)
+![image](https://github.com/HiteshSharma-github/MUSICFY/assets/85629794/0f3d690c-e909-4388-8d38-e00cc2c13bf2)                                                                        
 The Play Music use case allows users to select a song or playlist and start playing music. This use case involves interactions between the user interface, media player, and music library. The Skip to Next Song use case allows users to skip to the next song in the playlist, involving interactions between the user interface and media player.
 
 The Add Song to Playlist use case allows users to add songs to their playlists, creating custom playlists of their favorite songs or songs for specific moods or occasions. This use case involves interactions between the user interface, music library, and playlist manager. The Shuffle Playlist use case allows users to shuffle the songs in their playlist, providing a random selection of songs to listen to. This use case involves interactions between the user interface, media player, and playlist manager.
